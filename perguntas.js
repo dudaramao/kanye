@@ -51,7 +51,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quantos paises tem o continete africano?',
-    '54 píses',
+    '55 píses',
 )
 criaCartao(
     'Geografia',
@@ -61,7 +61,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quantos paises tem na América do Sul?',
-    '13 Paises',
+    '12 Paises',
 )
 criaCartao(
     'Geografia',
@@ -75,7 +75,7 @@ criaCartao(
 )
 criaCartao(
     'Geografia',
-    'Qual a mior ciade do muno?',
+    'Qual a mior cidade do mundo?',
     'Tóquio',
 )
 criaCartao(
@@ -85,7 +85,7 @@ criaCartao(
 )
 criaCartao(
     'Geografia',
-    'Em que continete está o Brasil?',
+    'Em que continente está o Brasil?',
     'América',
 )
 criaCartao(
@@ -95,7 +95,7 @@ criaCartao(
 )
 criaCartao(
     'Geografia',
-    'Qual op país mais extenso do mundo?',
+    'Qual o país mais extenso do mundo?',
     'Rússia',
 )
 
