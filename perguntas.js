@@ -51,52 +51,52 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quantos paises tem o continete africano?',
-    '55 píses',
+    '55 píses'
 )
 criaCartao(
     'Geografia',
     'Qual a capital da Ítalia?',
-    'Roma',
+    'Roma'
 )
 criaCartao(
     'Geografia',
     'Quantos paises tem na América do Sul?',
-    '12 Paises',
+    '12 Paises'
 )
 criaCartao(
     'Geografia',
     'Qual o menor país do mundo?',
-    'Vaticano',
+    'Vaticano'
 )
 criaCartao(
     'Geografia',
     'Qual o país mais populoso do mundo?',
-    'Índia',
+    'Índia'
 )
 criaCartao(
     'Geografia',
     'Qual a mior cidade do mundo?',
-    'Tóquio',
+    'Tóquio'
 )
 criaCartao(
     'Geografia',
     'Qual a capital mais fria do Brasil?',
-    'Curitiba',
+    'Curitiba'
 )
 criaCartao(
     'Geografia',
     'Em que continente está o Brasil?',
-    'América',
+    'América'
 )
 criaCartao(
     'Geografia',
     'Qual a capital da França?',
-    'Paris',
+    'Paris'
 )
 criaCartao(
     'Geografia',
     'Qual o país mais extenso do mundo?',
-    'Rússia',
+    'Rússia'
 )
 
 
