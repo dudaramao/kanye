@@ -41,3 +41,14 @@ footer{
     height: 100%;
     text-align: center;
 }
+
+.conteudo-cartao{
+    color: var(--destaque);
+    border: 1px solid var(--destaque);
+    position: absolute;
+    margin: 0.Srem;
+    padding: 0.Srem;
+    text-align: left;
+    border-radius: 0.6Srem;
+    font-size: 1vw;
+}
