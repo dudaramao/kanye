@@ -48,11 +48,12 @@ footer{
     color: var(--destaque);
     border: 1px solid var(--destaque);
     position: absolute;
-    margin: 0.Srem;
-    padding: 0.Srem;
+    margin: 0.5rem;
+    padding: 0.5rem;
     text-align: left;
-    border-radius: 0.6Srem;
+    border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
 }
  
 .conteudo-cartao p{
